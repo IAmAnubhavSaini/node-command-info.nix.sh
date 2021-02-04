@@ -4,13 +4,25 @@ Library and executable for getting information about a command on linux/bash lik
 
 ## Installation
 
-`npm i @f0c1s/command-info.nix.sh`
+For command execution: `npx @f0c1s/command-info.nix.sh`
+
+As library; `npm i @f0c1s/command-info.nix.sh`
 
 ## Execution
+
+As command
 
 `npx @f0c1s/command-info.nix.sh <cmd: ip|ifconfig|etc>`
 
 or
+
+`_cmd ip`
+
+or
+
+`command_info ip`
+
+As library
 
 ```javascript
 
