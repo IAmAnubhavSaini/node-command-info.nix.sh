@@ -4,7 +4,7 @@ Library and executable for getting information about a command on linux/bash lik
 
 ## Installation
 
-For command execution: `npx @f0c1s/command-info.nix.sh`
+For command execution: `npx @f0c1s/command-info.nix.sh` or `npm i -g @f0c1s/command-info.nix.sh`
 
 As library; `npm i @f0c1s/command-info.nix.sh`
 
